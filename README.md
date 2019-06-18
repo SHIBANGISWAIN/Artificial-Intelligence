@@ -13,7 +13,8 @@ It’s an approach to make a computer or a robot or an application or a product 
 5.	Smart Personal Assistants like Google Assistant, Alexa etc.
 There are lot of Real-world Examples which follows Artificial Intelligence.
 
- 
+ ![Image1](https://user-images.githubusercontent.com/51597747/59673494-0f2f3f80-91df-11e9-8f17-d348b914e6c8.png)
+
 ## Machine Learning:
 
 Machine Learning is a subset of Artificial Intelligence. It is a concept in which algorithms parse the data, learn from the data and apply their learning to make informed decisions.
