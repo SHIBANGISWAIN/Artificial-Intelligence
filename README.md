@@ -35,9 +35,13 @@ For the flashlight example, Deep Learning could be programmed to turn on the fla
 ## Difference between Machine Learning and Deep Learning:
 
 •	Deep Learning algorithms need a large amount of data to perform well. When the size of the data is small, Deep learning algorithms does not perform well. But Machine learning algorithms can perform well with smaller amount of data.
+
 •	Deep Learning algorithms are heavily dependent on high end machines. But Machine Learning algorithms can perform well on low end machines.
+
 •	Deep Learning algorithms takes longer time to train the data as it has huge amount of data. But Machine Learning algorithms relatively takes much less time to train the data.
+
 •	Deep Learning algorithms takes much less time to execute or learn, but for Machine Learning algorithms, the execution time increases when size of the data increases.
+
 •	In Machine Learning, most of the algorithms are easy to interpret (Logistic Regression, Decision Tree), some are almost impossible (SVM, XGBoost). But in Deep Learning, it’s difficult and impossible to interpret (why it chose what it chose, so it is difficult to interpret the reasoning behind it.).
  
 
