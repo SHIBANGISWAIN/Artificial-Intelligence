@@ -11,7 +11,7 @@ It’s an approach to make a computer or a robot or an application or a product 
 3.	Video Recommendations on different Video Platforms like YouTube, Netflix.
 4.	Facebook’s Facial Recognition
 5.	Smart Personal Assistants like Google Assistant, Alexa etc.
-There are lot of Real-world Examples which follows Artificial Intelligence.
+   There are lot of Real-world Examples which follows Artificial Intelligence.
 
  ![Image1](https://user-images.githubusercontent.com/51597747/59673494-0f2f3f80-91df-11e9-8f17-d348b914e6c8.png)
 
